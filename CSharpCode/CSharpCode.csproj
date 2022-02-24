@@ -39,7 +39,8 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
-        <Compile Include="C1_Formatting.cs" />
+        <Compile Include="C1_BasicUsage.cs" />
+        <Compile Include="C2_Method.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
