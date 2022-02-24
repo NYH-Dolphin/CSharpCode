@@ -96,7 +96,7 @@ namespace CSharpCode
             var myInt = 0;
             var myBool = true;
             var myString = "This is a string";
-
+            var arr = new[] {1, 2, 3, 4, 5};
             Console.WriteLine("myInt is a: {0}", myInt.GetType().Name);
             Console.WriteLine("myBool is a: {0}", myBool.GetType().Name);
             Console.WriteLine("myString is a: {0}", myString.GetType().Name);
