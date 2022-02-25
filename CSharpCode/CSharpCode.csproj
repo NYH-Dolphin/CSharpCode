@@ -43,6 +43,7 @@
         <Compile Include="C2_Method.cs" />
         <Compile Include="C3_EnumAndStruct.cs" />
         <Compile Include="C4_Class.cs" />
+        <Compile Include="C5_Delegate.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
