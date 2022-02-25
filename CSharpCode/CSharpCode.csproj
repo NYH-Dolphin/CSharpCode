@@ -44,6 +44,8 @@
         <Compile Include="C3_EnumAndStruct.cs" />
         <Compile Include="C4_Class.cs" />
         <Compile Include="C5_Delegate.cs" />
+        <Compile Include="C6_AdvancedFeature.cs" />
+        <Compile Include="C7_LINQ.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
